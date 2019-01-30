@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Gophercon EU
-## 30/05-01/06/2019
+![GopherconEU](/gophercon.eu.flag.png)
 
 # Schedule
 
