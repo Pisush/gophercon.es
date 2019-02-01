@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![GopherconEU](/gophercon.eu.flag.png)
+![GopherconEU](gophercon.eu.flag.png)
 
 # Schedule
 
